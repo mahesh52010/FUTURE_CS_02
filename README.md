@@ -54,9 +54,8 @@ Successful login occurred after several failures → indicates compromise
 
 Incident classified as Brute Force and Account Compromise
 
-🔗 Connect With Me
 
-LinkedIn: Mahesh Yandrapu
+> Authored by: [Yandrapu Mahesh](https://www.linkedin.com/in/mahesh-yandrapu-3337b825a)
 
-GitHub: mahesh52010
 
+> 🔗 GitHub Repo: [FUTURE_CS_02](https://github.com/mahesh52010/FUTURE_CS_02)
